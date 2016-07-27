@@ -1,0 +1,28 @@
+There are two ways to enter expressions into the calculator:
+Inline
+> 5 8 +
+13
+
+Per Line
+> 5
+5
+> 8
+8
+> +
+13
+
+Operators
+The following operators are allowed:
+addition (+)
+subtraction (-)
+division (/)
+multiplication (*)
+
+Commands
+The following are the accepted commands:
+q  - exits the program
+c  - clears the last entry from memory
+ce - resets the calculator
+?  - displays help message
+v  - the version of the software
+h  - history of the current equation (view of the stack)
